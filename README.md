@@ -1,5 +1,11 @@
 # go-swagger
 
+Just a simple swagger-generated PetStore server.
+
+This package contains a golang implementation of Swagger 2.0 (aka [OpenAPI 2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md))
+
+
+
 # The Go Programming Language
 
 Go is an open source programming language that makes it easy to build simple,
